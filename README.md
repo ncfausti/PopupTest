@@ -1,4 +1,4 @@
-## PopupTest
+## Days Since Menu Bar PopUp - Popup Test Fork
 Statusbar app sample for Mac (Yosemite or later)
 
 ![Screenshot](https://raw.githubusercontent.com/taichino/PopupTest/master/screenshot/screenshot.png)
